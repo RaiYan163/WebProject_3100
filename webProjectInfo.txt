@@ -1,0 +1,14 @@
+Apps/providers/ -----> appservice provider e admin ke sheta deya holo
+
+
+gate facade use kore kaaj korte hobe!
+
+@can
+@endcan
+
+app service provider e amra amader moto kore custom way te banay nite parbo
+
+
+Problem(clash) -- Must be administrator e(ei middleware e  -- last video te explaination ase)
+
+admin username ekhane deya rai11

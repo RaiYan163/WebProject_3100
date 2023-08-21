@@ -1,0 +1,7 @@
+@props(['category'])
+
+    <a href="/?category={{ $category->slug }}&"
+       class="px-3 py-1 border border-red-900 rounded-full text-red-900 text-xs uppercase font-semibold"
+       style="font-size: 10px">{{ $category->name }}</a>
+
+
